@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "/HTML/Jonas Course/07-Omnifood-desktotp/img/favicon 192.png",
+      "type": "img/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/HTML/Jonas Course/07-Omnifood-desktotp/img/favicon.png",
+      "type": "img/png",
+      "sizes": "512x512"
+    }
+  ]
+}
